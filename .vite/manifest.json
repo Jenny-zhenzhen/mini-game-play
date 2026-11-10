@@ -4,7 +4,7 @@
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-BR4bWj9g.js",
+    "file": "assets/index-DaPQmTLV.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -27,21 +27,23 @@
     "assets": [
       "assets/floor-Bg36GMxy.png",
       "assets/menu_bg-CCpTJHGz.png",
-      "assets/cabin-DDt09g91.png",
-      "assets/candycane-Dgg187se.png",
+      "assets/cabin-BGN9y3e8.png",
+      "assets/candycane-CXeP6GUs.png",
       "assets/cookie-bOSnPS3r.png",
       "assets/gift-C7fQwzGw.png",
+      "assets/gift_cream-Ccuj5Hlu.png",
+      "assets/gift_green-Js9Xd6tB.png",
       "assets/gingerbread-rutMx7jL.png",
-      "assets/hole-QO8B7PQr.png",
+      "assets/hole-oAsiHsyU.png",
       "assets/logo-Dz5-491t.png",
       "assets/ornament-DBVYjU1z.png",
-      "assets/pine-BquWRZKJ.png",
-      "assets/pinecone-B8Jj-qUq.png",
+      "assets/pine-9RTfOHpt.png",
+      "assets/pinecone-CjHpXYLU.png",
       "assets/sleigh-CM_OVmhm.png",
-      "assets/snowman-BrB0Nqwh.png",
+      "assets/snowman-CGe8o4iX.png",
       "assets/stall-DC-W0vgT.png",
-      "assets/stocking-DQywji4f.png",
-      "assets/tree-DEG6KPfq.png",
+      "assets/stocking-DgcL1fS8.png",
+      "assets/tree-CV9TaEon.png",
       "assets/wreath-RdD4-MCB.png",
       "assets/vignette-5HqD2nub.png"
     ]
@@ -55,11 +57,11 @@
     "src": "src/assets/christmas/menu_bg.png"
   },
   "src/assets/christmas/sprites/cabin.png": {
-    "file": "assets/cabin-DDt09g91.png",
+    "file": "assets/cabin-BGN9y3e8.png",
     "src": "src/assets/christmas/sprites/cabin.png"
   },
   "src/assets/christmas/sprites/candycane.png": {
-    "file": "assets/candycane-Dgg187se.png",
+    "file": "assets/candycane-CXeP6GUs.png",
     "src": "src/assets/christmas/sprites/candycane.png"
   },
   "src/assets/christmas/sprites/cookie.png": {
@@ -70,12 +72,20 @@
     "file": "assets/gift-C7fQwzGw.png",
     "src": "src/assets/christmas/sprites/gift.png"
   },
+  "src/assets/christmas/sprites/gift_cream.png": {
+    "file": "assets/gift_cream-Ccuj5Hlu.png",
+    "src": "src/assets/christmas/sprites/gift_cream.png"
+  },
+  "src/assets/christmas/sprites/gift_green.png": {
+    "file": "assets/gift_green-Js9Xd6tB.png",
+    "src": "src/assets/christmas/sprites/gift_green.png"
+  },
   "src/assets/christmas/sprites/gingerbread.png": {
     "file": "assets/gingerbread-rutMx7jL.png",
     "src": "src/assets/christmas/sprites/gingerbread.png"
   },
   "src/assets/christmas/sprites/hole.png": {
-    "file": "assets/hole-QO8B7PQr.png",
+    "file": "assets/hole-oAsiHsyU.png",
     "src": "src/assets/christmas/sprites/hole.png"
   },
   "src/assets/christmas/sprites/logo.png": {
@@ -87,11 +97,11 @@
     "src": "src/assets/christmas/sprites/ornament.png"
   },
   "src/assets/christmas/sprites/pine.png": {
-    "file": "assets/pine-BquWRZKJ.png",
+    "file": "assets/pine-9RTfOHpt.png",
     "src": "src/assets/christmas/sprites/pine.png"
   },
   "src/assets/christmas/sprites/pinecone.png": {
-    "file": "assets/pinecone-B8Jj-qUq.png",
+    "file": "assets/pinecone-CjHpXYLU.png",
     "src": "src/assets/christmas/sprites/pinecone.png"
   },
   "src/assets/christmas/sprites/sleigh.png": {
@@ -99,7 +109,7 @@
     "src": "src/assets/christmas/sprites/sleigh.png"
   },
   "src/assets/christmas/sprites/snowman.png": {
-    "file": "assets/snowman-BrB0Nqwh.png",
+    "file": "assets/snowman-CGe8o4iX.png",
     "src": "src/assets/christmas/sprites/snowman.png"
   },
   "src/assets/christmas/sprites/stall.png": {
@@ -107,11 +117,11 @@
     "src": "src/assets/christmas/sprites/stall.png"
   },
   "src/assets/christmas/sprites/stocking.png": {
-    "file": "assets/stocking-DQywji4f.png",
+    "file": "assets/stocking-DgcL1fS8.png",
     "src": "src/assets/christmas/sprites/stocking.png"
   },
   "src/assets/christmas/sprites/tree.png": {
-    "file": "assets/tree-DEG6KPfq.png",
+    "file": "assets/tree-CV9TaEon.png",
     "src": "src/assets/christmas/sprites/tree.png"
   },
   "src/assets/christmas/sprites/wreath.png": {
