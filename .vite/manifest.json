@@ -1,0 +1,173 @@
+{
+  "_phaser-Czz4FBZH.js": {
+    "file": "assets/phaser-Czz4FBZH.js",
+    "name": "phaser"
+  },
+  "index.html": {
+    "file": "assets/index-Da5NANSW.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_phaser-Czz4FBZH.js"
+    ],
+    "dynamicImports": [
+      "src/levels/thanksgiving_01.json",
+      "src/levels/thanksgiving_02.json",
+      "src/levels/thanksgiving_03.json",
+      "src/levels/thanksgiving_04.json",
+      "src/levels/thanksgiving_05.json",
+      "src/levels/thanksgiving_06.json",
+      "src/levels/thanksgiving_07.json",
+      "src/levels/thanksgiving_08.json"
+    ],
+    "css": [
+      "assets/index-2sSCdXUr.css"
+    ],
+    "assets": [
+      "assets/floor-Bg36GMxy.png",
+      "assets/menu_bg-CCpTJHGz.png",
+      "assets/cabin-DDt09g91.png",
+      "assets/candycane-Dgg187se.png",
+      "assets/cookie-bOSnPS3r.png",
+      "assets/gift-C7fQwzGw.png",
+      "assets/gingerbread-rutMx7jL.png",
+      "assets/hole-QO8B7PQr.png",
+      "assets/logo-Dz5-491t.png",
+      "assets/ornament-DBVYjU1z.png",
+      "assets/pine-BquWRZKJ.png",
+      "assets/pinecone-B8Jj-qUq.png",
+      "assets/sleigh-CM_OVmhm.png",
+      "assets/snowman-BrB0Nqwh.png",
+      "assets/stall-DC-W0vgT.png",
+      "assets/stocking-DQywji4f.png",
+      "assets/tree-DEG6KPfq.png",
+      "assets/wreath-RdD4-MCB.png",
+      "assets/vignette-5HqD2nub.png"
+    ]
+  },
+  "src/assets/christmas/floor.png": {
+    "file": "assets/floor-Bg36GMxy.png",
+    "src": "src/assets/christmas/floor.png"
+  },
+  "src/assets/christmas/menu_bg.png": {
+    "file": "assets/menu_bg-CCpTJHGz.png",
+    "src": "src/assets/christmas/menu_bg.png"
+  },
+  "src/assets/christmas/sprites/cabin.png": {
+    "file": "assets/cabin-DDt09g91.png",
+    "src": "src/assets/christmas/sprites/cabin.png"
+  },
+  "src/assets/christmas/sprites/candycane.png": {
+    "file": "assets/candycane-Dgg187se.png",
+    "src": "src/assets/christmas/sprites/candycane.png"
+  },
+  "src/assets/christmas/sprites/cookie.png": {
+    "file": "assets/cookie-bOSnPS3r.png",
+    "src": "src/assets/christmas/sprites/cookie.png"
+  },
+  "src/assets/christmas/sprites/gift.png": {
+    "file": "assets/gift-C7fQwzGw.png",
+    "src": "src/assets/christmas/sprites/gift.png"
+  },
+  "src/assets/christmas/sprites/gingerbread.png": {
+    "file": "assets/gingerbread-rutMx7jL.png",
+    "src": "src/assets/christmas/sprites/gingerbread.png"
+  },
+  "src/assets/christmas/sprites/hole.png": {
+    "file": "assets/hole-QO8B7PQr.png",
+    "src": "src/assets/christmas/sprites/hole.png"
+  },
+  "src/assets/christmas/sprites/logo.png": {
+    "file": "assets/logo-Dz5-491t.png",
+    "src": "src/assets/christmas/sprites/logo.png"
+  },
+  "src/assets/christmas/sprites/ornament.png": {
+    "file": "assets/ornament-DBVYjU1z.png",
+    "src": "src/assets/christmas/sprites/ornament.png"
+  },
+  "src/assets/christmas/sprites/pine.png": {
+    "file": "assets/pine-BquWRZKJ.png",
+    "src": "src/assets/christmas/sprites/pine.png"
+  },
+  "src/assets/christmas/sprites/pinecone.png": {
+    "file": "assets/pinecone-B8Jj-qUq.png",
+    "src": "src/assets/christmas/sprites/pinecone.png"
+  },
+  "src/assets/christmas/sprites/sleigh.png": {
+    "file": "assets/sleigh-CM_OVmhm.png",
+    "src": "src/assets/christmas/sprites/sleigh.png"
+  },
+  "src/assets/christmas/sprites/snowman.png": {
+    "file": "assets/snowman-BrB0Nqwh.png",
+    "src": "src/assets/christmas/sprites/snowman.png"
+  },
+  "src/assets/christmas/sprites/stall.png": {
+    "file": "assets/stall-DC-W0vgT.png",
+    "src": "src/assets/christmas/sprites/stall.png"
+  },
+  "src/assets/christmas/sprites/stocking.png": {
+    "file": "assets/stocking-DQywji4f.png",
+    "src": "src/assets/christmas/sprites/stocking.png"
+  },
+  "src/assets/christmas/sprites/tree.png": {
+    "file": "assets/tree-DEG6KPfq.png",
+    "src": "src/assets/christmas/sprites/tree.png"
+  },
+  "src/assets/christmas/sprites/wreath.png": {
+    "file": "assets/wreath-RdD4-MCB.png",
+    "src": "src/assets/christmas/sprites/wreath.png"
+  },
+  "src/assets/christmas/vignette.png": {
+    "file": "assets/vignette-5HqD2nub.png",
+    "src": "src/assets/christmas/vignette.png"
+  },
+  "src/levels/thanksgiving_01.json": {
+    "file": "assets/thanksgiving_01-Cu1meiCM.js",
+    "name": "thanksgiving_01",
+    "src": "src/levels/thanksgiving_01.json",
+    "isDynamicEntry": true
+  },
+  "src/levels/thanksgiving_02.json": {
+    "file": "assets/thanksgiving_02-Ba7mRD7D.js",
+    "name": "thanksgiving_02",
+    "src": "src/levels/thanksgiving_02.json",
+    "isDynamicEntry": true
+  },
+  "src/levels/thanksgiving_03.json": {
+    "file": "assets/thanksgiving_03-CuSJi305.js",
+    "name": "thanksgiving_03",
+    "src": "src/levels/thanksgiving_03.json",
+    "isDynamicEntry": true
+  },
+  "src/levels/thanksgiving_04.json": {
+    "file": "assets/thanksgiving_04-Cpy853qK.js",
+    "name": "thanksgiving_04",
+    "src": "src/levels/thanksgiving_04.json",
+    "isDynamicEntry": true
+  },
+  "src/levels/thanksgiving_05.json": {
+    "file": "assets/thanksgiving_05-ClIXFrS0.js",
+    "name": "thanksgiving_05",
+    "src": "src/levels/thanksgiving_05.json",
+    "isDynamicEntry": true
+  },
+  "src/levels/thanksgiving_06.json": {
+    "file": "assets/thanksgiving_06-DNTOu9KN.js",
+    "name": "thanksgiving_06",
+    "src": "src/levels/thanksgiving_06.json",
+    "isDynamicEntry": true
+  },
+  "src/levels/thanksgiving_07.json": {
+    "file": "assets/thanksgiving_07-BeaDrDho.js",
+    "name": "thanksgiving_07",
+    "src": "src/levels/thanksgiving_07.json",
+    "isDynamicEntry": true
+  },
+  "src/levels/thanksgiving_08.json": {
+    "file": "assets/thanksgiving_08-Ypm08J9b.js",
+    "name": "thanksgiving_08",
+    "src": "src/levels/thanksgiving_08.json",
+    "isDynamicEntry": true
+  }
+}
