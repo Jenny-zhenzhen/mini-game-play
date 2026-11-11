@@ -4,7 +4,7 @@
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-Cq2rKXQM.js",
+    "file": "assets/index-DkBIG5vQ.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -20,8 +20,11 @@
       "src/assets/christmas/edge/snowbank_b.png?url",
       "src/assets/christmas/edge/snowbank_c.png?url",
       "src/assets/christmas/ground/plaza.png?url",
+      "src/assets/christmas/ground/road_corner.png?url",
+      "src/assets/christmas/ground/road_cross.png?url",
       "src/assets/christmas/ground/road_curve.png?url",
       "src/assets/christmas/ground/road_straight.png?url",
+      "src/assets/christmas/ground/road_t.png?url",
       "src/assets/christmas/ground/shadow.png?url",
       "src/levels/newyear_01.json",
       "src/levels/newyear_02.json",
@@ -175,6 +178,32 @@
       "assets/plaza-C-BeBluU.png"
     ]
   },
+  "src/assets/christmas/ground/road_corner.png": {
+    "file": "assets/road_corner-Qsobbqd1.png",
+    "src": "src/assets/christmas/ground/road_corner.png"
+  },
+  "src/assets/christmas/ground/road_corner.png?url": {
+    "file": "assets/road_corner-CeyqBNLk.js",
+    "name": "road_corner",
+    "src": "src/assets/christmas/ground/road_corner.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/road_corner-Qsobbqd1.png"
+    ]
+  },
+  "src/assets/christmas/ground/road_cross.png": {
+    "file": "assets/road_cross-C8duH7wb.png",
+    "src": "src/assets/christmas/ground/road_cross.png"
+  },
+  "src/assets/christmas/ground/road_cross.png?url": {
+    "file": "assets/road_cross-DOyxQiCD.js",
+    "name": "road_cross",
+    "src": "src/assets/christmas/ground/road_cross.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/road_cross-C8duH7wb.png"
+    ]
+  },
   "src/assets/christmas/ground/road_curve.png": {
     "file": "assets/road_curve-DGhzJIHp.png",
     "src": "src/assets/christmas/ground/road_curve.png"
@@ -199,6 +228,19 @@
     "isDynamicEntry": true,
     "assets": [
       "assets/road_straight-Cq6Nye3C.png"
+    ]
+  },
+  "src/assets/christmas/ground/road_t.png": {
+    "file": "assets/road_t-DxsFvI5N.png",
+    "src": "src/assets/christmas/ground/road_t.png"
+  },
+  "src/assets/christmas/ground/road_t.png?url": {
+    "file": "assets/road_t-BvE1Cv9B.js",
+    "name": "road_t",
+    "src": "src/assets/christmas/ground/road_t.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/road_t-DxsFvI5N.png"
     ]
   },
   "src/assets/christmas/ground/shadow.png": {
