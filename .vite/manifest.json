@@ -4,7 +4,7 @@
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-BgUH8jJF.js",
+    "file": "assets/index-Co9V9EJy.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -133,7 +133,7 @@
     "src": "src/assets/christmas/vignette.png"
   },
   "src/levels/thanksgiving_01.json": {
-    "file": "assets/thanksgiving_01-Cu1meiCM.js",
+    "file": "assets/thanksgiving_01-DViVzY9W.js",
     "name": "thanksgiving_01",
     "src": "src/levels/thanksgiving_01.json",
     "isDynamicEntry": true
