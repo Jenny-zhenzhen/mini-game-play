@@ -4,7 +4,7 @@
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-Co9V9EJy.js",
+    "file": "assets/index-BEhx6Tdx.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -145,7 +145,7 @@
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_03.json": {
-    "file": "assets/thanksgiving_03-CuSJi305.js",
+    "file": "assets/thanksgiving_03-UyqJoLn0.js",
     "name": "thanksgiving_03",
     "src": "src/levels/thanksgiving_03.json",
     "isDynamicEntry": true
@@ -163,7 +163,7 @@
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_06.json": {
-    "file": "assets/thanksgiving_06-DNTOu9KN.js",
+    "file": "assets/thanksgiving_06-C6QzYCvq.js",
     "name": "thanksgiving_06",
     "src": "src/levels/thanksgiving_06.json",
     "isDynamicEntry": true
