@@ -4,7 +4,7 @@
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-4ntp0KBs.js",
+    "file": "assets/index-Vp5eTu7c.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -12,6 +12,17 @@
       "_phaser-BiZnaYYA.js"
     ],
     "dynamicImports": [
+      "src/assets/christmas/edge/fence_corner.png?url",
+      "src/assets/christmas/edge/fence_straight.png?url",
+      "src/assets/christmas/edge/forest_edge.png?url",
+      "src/assets/christmas/edge/ice_lake.png?url",
+      "src/assets/christmas/edge/snowbank_a.png?url",
+      "src/assets/christmas/edge/snowbank_b.png?url",
+      "src/assets/christmas/edge/snowbank_c.png?url",
+      "src/assets/christmas/ground/plaza.png?url",
+      "src/assets/christmas/ground/road_curve.png?url",
+      "src/assets/christmas/ground/road_straight.png?url",
+      "src/assets/christmas/ground/shadow.png?url",
       "src/levels/newyear_01.json",
       "src/levels/newyear_02.json",
       "src/levels/newyear_03.json",
@@ -56,9 +67,152 @@
       "assets/vignette-5HqD2nub.png"
     ]
   },
+  "src/assets/christmas/edge/fence_corner.png": {
+    "file": "assets/fence_corner-CSp6fB52.png",
+    "src": "src/assets/christmas/edge/fence_corner.png"
+  },
+  "src/assets/christmas/edge/fence_corner.png?url": {
+    "file": "assets/fence_corner-BWFpIkBR.js",
+    "name": "fence_corner",
+    "src": "src/assets/christmas/edge/fence_corner.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/fence_corner-CSp6fB52.png"
+    ]
+  },
+  "src/assets/christmas/edge/fence_straight.png": {
+    "file": "assets/fence_straight-Ck0ngJna.png",
+    "src": "src/assets/christmas/edge/fence_straight.png"
+  },
+  "src/assets/christmas/edge/fence_straight.png?url": {
+    "file": "assets/fence_straight-DPNDKMCx.js",
+    "name": "fence_straight",
+    "src": "src/assets/christmas/edge/fence_straight.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/fence_straight-Ck0ngJna.png"
+    ]
+  },
+  "src/assets/christmas/edge/forest_edge.png": {
+    "file": "assets/forest_edge-C5Tl5pJl.png",
+    "src": "src/assets/christmas/edge/forest_edge.png"
+  },
+  "src/assets/christmas/edge/forest_edge.png?url": {
+    "file": "assets/forest_edge-Dw6G9fY1.js",
+    "name": "forest_edge",
+    "src": "src/assets/christmas/edge/forest_edge.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/forest_edge-C5Tl5pJl.png"
+    ]
+  },
+  "src/assets/christmas/edge/ice_lake.png": {
+    "file": "assets/ice_lake-7liiE8gX.png",
+    "src": "src/assets/christmas/edge/ice_lake.png"
+  },
+  "src/assets/christmas/edge/ice_lake.png?url": {
+    "file": "assets/ice_lake-XT06HUHo.js",
+    "name": "ice_lake",
+    "src": "src/assets/christmas/edge/ice_lake.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/ice_lake-7liiE8gX.png"
+    ]
+  },
+  "src/assets/christmas/edge/snowbank_a.png": {
+    "file": "assets/snowbank_a-CRy47BeL.png",
+    "src": "src/assets/christmas/edge/snowbank_a.png"
+  },
+  "src/assets/christmas/edge/snowbank_a.png?url": {
+    "file": "assets/snowbank_a-XYUIukPi.js",
+    "name": "snowbank_a",
+    "src": "src/assets/christmas/edge/snowbank_a.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/snowbank_a-CRy47BeL.png"
+    ]
+  },
+  "src/assets/christmas/edge/snowbank_b.png": {
+    "file": "assets/snowbank_b-BU6h-n1B.png",
+    "src": "src/assets/christmas/edge/snowbank_b.png"
+  },
+  "src/assets/christmas/edge/snowbank_b.png?url": {
+    "file": "assets/snowbank_b-BhS0VMsi.js",
+    "name": "snowbank_b",
+    "src": "src/assets/christmas/edge/snowbank_b.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/snowbank_b-BU6h-n1B.png"
+    ]
+  },
+  "src/assets/christmas/edge/snowbank_c.png": {
+    "file": "assets/snowbank_c-DTGwZDwT.png",
+    "src": "src/assets/christmas/edge/snowbank_c.png"
+  },
+  "src/assets/christmas/edge/snowbank_c.png?url": {
+    "file": "assets/snowbank_c-DloA0JiA.js",
+    "name": "snowbank_c",
+    "src": "src/assets/christmas/edge/snowbank_c.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/snowbank_c-DTGwZDwT.png"
+    ]
+  },
   "src/assets/christmas/floor.png": {
     "file": "assets/floor-Bg36GMxy.png",
     "src": "src/assets/christmas/floor.png"
+  },
+  "src/assets/christmas/ground/plaza.png": {
+    "file": "assets/plaza-C-BeBluU.png",
+    "src": "src/assets/christmas/ground/plaza.png"
+  },
+  "src/assets/christmas/ground/plaza.png?url": {
+    "file": "assets/plaza-CQpBAe5M.js",
+    "name": "plaza",
+    "src": "src/assets/christmas/ground/plaza.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/plaza-C-BeBluU.png"
+    ]
+  },
+  "src/assets/christmas/ground/road_curve.png": {
+    "file": "assets/road_curve-DGhzJIHp.png",
+    "src": "src/assets/christmas/ground/road_curve.png"
+  },
+  "src/assets/christmas/ground/road_curve.png?url": {
+    "file": "assets/road_curve-C6SNgrFS.js",
+    "name": "road_curve",
+    "src": "src/assets/christmas/ground/road_curve.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/road_curve-DGhzJIHp.png"
+    ]
+  },
+  "src/assets/christmas/ground/road_straight.png": {
+    "file": "assets/road_straight-Cq6Nye3C.png",
+    "src": "src/assets/christmas/ground/road_straight.png"
+  },
+  "src/assets/christmas/ground/road_straight.png?url": {
+    "file": "assets/road_straight-DT87zwrO.js",
+    "name": "road_straight",
+    "src": "src/assets/christmas/ground/road_straight.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/road_straight-Cq6Nye3C.png"
+    ]
+  },
+  "src/assets/christmas/ground/shadow.png": {
+    "file": "assets/shadow-Cy-uVjqU.png",
+    "src": "src/assets/christmas/ground/shadow.png"
+  },
+  "src/assets/christmas/ground/shadow.png?url": {
+    "file": "assets/shadow-BroOFXei.js",
+    "name": "shadow",
+    "src": "src/assets/christmas/ground/shadow.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/shadow-Cy-uVjqU.png"
+    ]
   },
   "src/assets/christmas/menu_bg.png": {
     "file": "assets/menu_bg-CCpTJHGz.png",
