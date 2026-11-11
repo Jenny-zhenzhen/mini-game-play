@@ -1,15 +1,15 @@
 {
-  "_phaser-Czz4FBZH.js": {
-    "file": "assets/phaser-Czz4FBZH.js",
+  "_phaser-BiZnaYYA.js": {
+    "file": "assets/phaser-BiZnaYYA.js",
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-CTk5Xdtb.js",
+    "file": "assets/index-BZ9be-8H.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_phaser-Czz4FBZH.js"
+      "_phaser-BiZnaYYA.js"
     ],
     "dynamicImports": [
       "src/levels/thanksgiving_01.json",
