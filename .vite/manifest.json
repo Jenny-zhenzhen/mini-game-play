@@ -4,7 +4,7 @@
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-Db1nt8uC.js",
+    "file": "assets/index-4i1oUq1c.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -385,49 +385,49 @@
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_01.json": {
-    "file": "assets/thanksgiving_01-x0nu0r3u.js",
+    "file": "assets/thanksgiving_01-d2yI9ubZ.js",
     "name": "thanksgiving_01",
     "src": "src/levels/thanksgiving_01.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_02.json": {
-    "file": "assets/thanksgiving_02-RnJvy-xE.js",
+    "file": "assets/thanksgiving_02-BRAY-y6S.js",
     "name": "thanksgiving_02",
     "src": "src/levels/thanksgiving_02.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_03.json": {
-    "file": "assets/thanksgiving_03-CE7IWUFR.js",
+    "file": "assets/thanksgiving_03-BeneoHiN.js",
     "name": "thanksgiving_03",
     "src": "src/levels/thanksgiving_03.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_04.json": {
-    "file": "assets/thanksgiving_04-rkvzlMbu.js",
+    "file": "assets/thanksgiving_04-BnUTc0SM.js",
     "name": "thanksgiving_04",
     "src": "src/levels/thanksgiving_04.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_05.json": {
-    "file": "assets/thanksgiving_05-Cmg6gTYJ.js",
+    "file": "assets/thanksgiving_05-8CoGAet7.js",
     "name": "thanksgiving_05",
     "src": "src/levels/thanksgiving_05.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_06.json": {
-    "file": "assets/thanksgiving_06-DNkhXWn4.js",
+    "file": "assets/thanksgiving_06-BFWJNAGY.js",
     "name": "thanksgiving_06",
     "src": "src/levels/thanksgiving_06.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_07.json": {
-    "file": "assets/thanksgiving_07-Bua9Zy-s.js",
+    "file": "assets/thanksgiving_07-PEn4g-2v.js",
     "name": "thanksgiving_07",
     "src": "src/levels/thanksgiving_07.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_08.json": {
-    "file": "assets/thanksgiving_08-CyUCB6Mh.js",
+    "file": "assets/thanksgiving_08-CojTjHyV.js",
     "name": "thanksgiving_08",
     "src": "src/levels/thanksgiving_08.json",
     "isDynamicEntry": true
