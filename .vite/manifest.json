@@ -4,7 +4,7 @@
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-GCR18klU.js",
+    "file": "assets/index-Dxn_-zQV.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -337,97 +337,97 @@
     "src": "src/assets/christmas/vignette.png"
   },
   "src/levels/newyear_01.json": {
-    "file": "assets/newyear_01-DS53zG47.js",
+    "file": "assets/newyear_01-B3bMY1E0.js",
     "name": "newyear_01",
     "src": "src/levels/newyear_01.json",
     "isDynamicEntry": true
   },
   "src/levels/newyear_02.json": {
-    "file": "assets/newyear_02-C3ccX9R_.js",
+    "file": "assets/newyear_02-LQf9IGA_.js",
     "name": "newyear_02",
     "src": "src/levels/newyear_02.json",
     "isDynamicEntry": true
   },
   "src/levels/newyear_03.json": {
-    "file": "assets/newyear_03-DJO8BuLX.js",
+    "file": "assets/newyear_03-DxU7MMyB.js",
     "name": "newyear_03",
     "src": "src/levels/newyear_03.json",
     "isDynamicEntry": true
   },
   "src/levels/newyear_04.json": {
-    "file": "assets/newyear_04-BB3GGnbq.js",
+    "file": "assets/newyear_04-BofaML8N.js",
     "name": "newyear_04",
     "src": "src/levels/newyear_04.json",
     "isDynamicEntry": true
   },
   "src/levels/newyear_05.json": {
-    "file": "assets/newyear_05-6Gk5PT2o.js",
+    "file": "assets/newyear_05-CvVSvjDg.js",
     "name": "newyear_05",
     "src": "src/levels/newyear_05.json",
     "isDynamicEntry": true
   },
   "src/levels/newyear_06.json": {
-    "file": "assets/newyear_06-Ca1Z2VDn.js",
+    "file": "assets/newyear_06-DUFljeLA.js",
     "name": "newyear_06",
     "src": "src/levels/newyear_06.json",
     "isDynamicEntry": true
   },
   "src/levels/newyear_07.json": {
-    "file": "assets/newyear_07-CXNZ2fka.js",
+    "file": "assets/newyear_07-CJRoliKT.js",
     "name": "newyear_07",
     "src": "src/levels/newyear_07.json",
     "isDynamicEntry": true
   },
   "src/levels/newyear_08.json": {
-    "file": "assets/newyear_08-nXnYboGL.js",
+    "file": "assets/newyear_08-CuIkhmMc.js",
     "name": "newyear_08",
     "src": "src/levels/newyear_08.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_01.json": {
-    "file": "assets/thanksgiving_01-CJrMRT11.js",
+    "file": "assets/thanksgiving_01-BKWfvw6w.js",
     "name": "thanksgiving_01",
     "src": "src/levels/thanksgiving_01.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_02.json": {
-    "file": "assets/thanksgiving_02-xMmANAZ5.js",
+    "file": "assets/thanksgiving_02-C-6_eLb0.js",
     "name": "thanksgiving_02",
     "src": "src/levels/thanksgiving_02.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_03.json": {
-    "file": "assets/thanksgiving_03-DnmC2B2j.js",
+    "file": "assets/thanksgiving_03-BgFSJ2Dh.js",
     "name": "thanksgiving_03",
     "src": "src/levels/thanksgiving_03.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_04.json": {
-    "file": "assets/thanksgiving_04-CGAPRGKq.js",
+    "file": "assets/thanksgiving_04-DvC3MoDF.js",
     "name": "thanksgiving_04",
     "src": "src/levels/thanksgiving_04.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_05.json": {
-    "file": "assets/thanksgiving_05-Dn60cOd5.js",
+    "file": "assets/thanksgiving_05-CrFF3a2S.js",
     "name": "thanksgiving_05",
     "src": "src/levels/thanksgiving_05.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_06.json": {
-    "file": "assets/thanksgiving_06-Da6BkoXr.js",
+    "file": "assets/thanksgiving_06-DNkhXWn4.js",
     "name": "thanksgiving_06",
     "src": "src/levels/thanksgiving_06.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_07.json": {
-    "file": "assets/thanksgiving_07-DpewBPD6.js",
+    "file": "assets/thanksgiving_07-DoUtSLeh.js",
     "name": "thanksgiving_07",
     "src": "src/levels/thanksgiving_07.json",
     "isDynamicEntry": true
   },
   "src/levels/thanksgiving_08.json": {
-    "file": "assets/thanksgiving_08-2BNko-Y0.js",
+    "file": "assets/thanksgiving_08-DWUBWSFQ.js",
     "name": "thanksgiving_08",
     "src": "src/levels/thanksgiving_08.json",
     "isDynamicEntry": true
