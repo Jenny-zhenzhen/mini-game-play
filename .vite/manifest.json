@@ -4,7 +4,7 @@
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-BFq7TCva.js",
+    "file": "assets/index-CgVxFvvH.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -12,6 +12,25 @@
       "_phaser-BiZnaYYA.js"
     ],
     "dynamicImports": [
+      "src/assets/christmas/floor.png?url",
+      "src/assets/christmas/sprites/cabin.png?url",
+      "src/assets/christmas/sprites/candycane.png?url",
+      "src/assets/christmas/sprites/cookie.png?url",
+      "src/assets/christmas/sprites/gift.png?url",
+      "src/assets/christmas/sprites/gift_cream.png?url",
+      "src/assets/christmas/sprites/gift_green.png?url",
+      "src/assets/christmas/sprites/gingerbread.png?url",
+      "src/assets/christmas/sprites/hole.png?url",
+      "src/assets/christmas/sprites/ornament.png?url",
+      "src/assets/christmas/sprites/pine.png?url",
+      "src/assets/christmas/sprites/pinecone.png?url",
+      "src/assets/christmas/sprites/sleigh.png?url",
+      "src/assets/christmas/sprites/snowman.png?url",
+      "src/assets/christmas/sprites/stall.png?url",
+      "src/assets/christmas/sprites/stocking.png?url",
+      "src/assets/christmas/sprites/tree.png?url",
+      "src/assets/christmas/sprites/wreath.png?url",
+      "src/assets/christmas/vignette.png?url",
       "src/assets/christmas/edge/fence_corner.png?url",
       "src/assets/christmas/edge/fence_straight.png?url",
       "src/assets/christmas/edge/forest_edge.png?url",
@@ -47,27 +66,8 @@
       "assets/index-CE-pNCfn.css"
     ],
     "assets": [
-      "assets/floor-Bg36GMxy.png",
       "assets/menu_bg-CCpTJHGz.png",
-      "assets/cabin-BGN9y3e8.png",
-      "assets/candycane-CXeP6GUs.png",
-      "assets/cookie-bOSnPS3r.png",
-      "assets/gift-C7fQwzGw.png",
-      "assets/gift_cream-Ccuj5Hlu.png",
-      "assets/gift_green-Js9Xd6tB.png",
-      "assets/gingerbread-rutMx7jL.png",
-      "assets/hole-oAsiHsyU.png",
-      "assets/logo-Dz5-491t.png",
-      "assets/ornament-DBVYjU1z.png",
-      "assets/pine-9RTfOHpt.png",
-      "assets/pinecone-CjHpXYLU.png",
-      "assets/sleigh-CM_OVmhm.png",
-      "assets/snowman-CGe8o4iX.png",
-      "assets/stall-DC-W0vgT.png",
-      "assets/stocking-DgcL1fS8.png",
-      "assets/tree-CV9TaEon.png",
-      "assets/wreath-RdD4-MCB.png",
-      "assets/vignette-5HqD2nub.png"
+      "assets/logo-Dz5-491t.png"
     ]
   },
   "src/assets/christmas/edge/fence_corner.png": {
@@ -164,6 +164,15 @@
   "src/assets/christmas/floor.png": {
     "file": "assets/floor-Bg36GMxy.png",
     "src": "src/assets/christmas/floor.png"
+  },
+  "src/assets/christmas/floor.png?url": {
+    "file": "assets/floor-BvAL4ANE.js",
+    "name": "floor",
+    "src": "src/assets/christmas/floor.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/floor-Bg36GMxy.png"
+    ]
   },
   "src/assets/christmas/ground/plaza.png": {
     "file": "assets/plaza-C-BeBluU.png",
@@ -264,33 +273,105 @@
     "file": "assets/cabin-BGN9y3e8.png",
     "src": "src/assets/christmas/sprites/cabin.png"
   },
+  "src/assets/christmas/sprites/cabin.png?url": {
+    "file": "assets/cabin-BiFFtnva.js",
+    "name": "cabin",
+    "src": "src/assets/christmas/sprites/cabin.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/cabin-BGN9y3e8.png"
+    ]
+  },
   "src/assets/christmas/sprites/candycane.png": {
     "file": "assets/candycane-CXeP6GUs.png",
     "src": "src/assets/christmas/sprites/candycane.png"
+  },
+  "src/assets/christmas/sprites/candycane.png?url": {
+    "file": "assets/candycane-B9x4H43S.js",
+    "name": "candycane",
+    "src": "src/assets/christmas/sprites/candycane.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/candycane-CXeP6GUs.png"
+    ]
   },
   "src/assets/christmas/sprites/cookie.png": {
     "file": "assets/cookie-bOSnPS3r.png",
     "src": "src/assets/christmas/sprites/cookie.png"
   },
+  "src/assets/christmas/sprites/cookie.png?url": {
+    "file": "assets/cookie-CQ-vxwfi.js",
+    "name": "cookie",
+    "src": "src/assets/christmas/sprites/cookie.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/cookie-bOSnPS3r.png"
+    ]
+  },
   "src/assets/christmas/sprites/gift.png": {
     "file": "assets/gift-C7fQwzGw.png",
     "src": "src/assets/christmas/sprites/gift.png"
+  },
+  "src/assets/christmas/sprites/gift.png?url": {
+    "file": "assets/gift-BA9OLh2G.js",
+    "name": "gift",
+    "src": "src/assets/christmas/sprites/gift.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/gift-C7fQwzGw.png"
+    ]
   },
   "src/assets/christmas/sprites/gift_cream.png": {
     "file": "assets/gift_cream-Ccuj5Hlu.png",
     "src": "src/assets/christmas/sprites/gift_cream.png"
   },
+  "src/assets/christmas/sprites/gift_cream.png?url": {
+    "file": "assets/gift_cream-CoRPNnz_.js",
+    "name": "gift_cream",
+    "src": "src/assets/christmas/sprites/gift_cream.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/gift_cream-Ccuj5Hlu.png"
+    ]
+  },
   "src/assets/christmas/sprites/gift_green.png": {
     "file": "assets/gift_green-Js9Xd6tB.png",
     "src": "src/assets/christmas/sprites/gift_green.png"
+  },
+  "src/assets/christmas/sprites/gift_green.png?url": {
+    "file": "assets/gift_green-CathOG5s.js",
+    "name": "gift_green",
+    "src": "src/assets/christmas/sprites/gift_green.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/gift_green-Js9Xd6tB.png"
+    ]
   },
   "src/assets/christmas/sprites/gingerbread.png": {
     "file": "assets/gingerbread-rutMx7jL.png",
     "src": "src/assets/christmas/sprites/gingerbread.png"
   },
+  "src/assets/christmas/sprites/gingerbread.png?url": {
+    "file": "assets/gingerbread-yIk472u4.js",
+    "name": "gingerbread",
+    "src": "src/assets/christmas/sprites/gingerbread.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/gingerbread-rutMx7jL.png"
+    ]
+  },
   "src/assets/christmas/sprites/hole.png": {
     "file": "assets/hole-oAsiHsyU.png",
     "src": "src/assets/christmas/sprites/hole.png"
+  },
+  "src/assets/christmas/sprites/hole.png?url": {
+    "file": "assets/hole-BYAv6UQT.js",
+    "name": "hole",
+    "src": "src/assets/christmas/sprites/hole.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/hole-oAsiHsyU.png"
+    ]
   },
   "src/assets/christmas/sprites/logo.png": {
     "file": "assets/logo-Dz5-491t.png",
@@ -300,41 +381,131 @@
     "file": "assets/ornament-DBVYjU1z.png",
     "src": "src/assets/christmas/sprites/ornament.png"
   },
+  "src/assets/christmas/sprites/ornament.png?url": {
+    "file": "assets/ornament-DyjRV8N8.js",
+    "name": "ornament",
+    "src": "src/assets/christmas/sprites/ornament.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/ornament-DBVYjU1z.png"
+    ]
+  },
   "src/assets/christmas/sprites/pine.png": {
     "file": "assets/pine-9RTfOHpt.png",
     "src": "src/assets/christmas/sprites/pine.png"
+  },
+  "src/assets/christmas/sprites/pine.png?url": {
+    "file": "assets/pine-CYSKMTNC.js",
+    "name": "pine",
+    "src": "src/assets/christmas/sprites/pine.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/pine-9RTfOHpt.png"
+    ]
   },
   "src/assets/christmas/sprites/pinecone.png": {
     "file": "assets/pinecone-CjHpXYLU.png",
     "src": "src/assets/christmas/sprites/pinecone.png"
   },
+  "src/assets/christmas/sprites/pinecone.png?url": {
+    "file": "assets/pinecone-B-zyA8u-.js",
+    "name": "pinecone",
+    "src": "src/assets/christmas/sprites/pinecone.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/pinecone-CjHpXYLU.png"
+    ]
+  },
   "src/assets/christmas/sprites/sleigh.png": {
     "file": "assets/sleigh-CM_OVmhm.png",
     "src": "src/assets/christmas/sprites/sleigh.png"
+  },
+  "src/assets/christmas/sprites/sleigh.png?url": {
+    "file": "assets/sleigh-CWHA0bmo.js",
+    "name": "sleigh",
+    "src": "src/assets/christmas/sprites/sleigh.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/sleigh-CM_OVmhm.png"
+    ]
   },
   "src/assets/christmas/sprites/snowman.png": {
     "file": "assets/snowman-CGe8o4iX.png",
     "src": "src/assets/christmas/sprites/snowman.png"
   },
+  "src/assets/christmas/sprites/snowman.png?url": {
+    "file": "assets/snowman-CJVPkHLZ.js",
+    "name": "snowman",
+    "src": "src/assets/christmas/sprites/snowman.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/snowman-CGe8o4iX.png"
+    ]
+  },
   "src/assets/christmas/sprites/stall.png": {
     "file": "assets/stall-DC-W0vgT.png",
     "src": "src/assets/christmas/sprites/stall.png"
+  },
+  "src/assets/christmas/sprites/stall.png?url": {
+    "file": "assets/stall-B2v0cqxm.js",
+    "name": "stall",
+    "src": "src/assets/christmas/sprites/stall.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/stall-DC-W0vgT.png"
+    ]
   },
   "src/assets/christmas/sprites/stocking.png": {
     "file": "assets/stocking-DgcL1fS8.png",
     "src": "src/assets/christmas/sprites/stocking.png"
   },
+  "src/assets/christmas/sprites/stocking.png?url": {
+    "file": "assets/stocking-BUgGGCi0.js",
+    "name": "stocking",
+    "src": "src/assets/christmas/sprites/stocking.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/stocking-DgcL1fS8.png"
+    ]
+  },
   "src/assets/christmas/sprites/tree.png": {
     "file": "assets/tree-CV9TaEon.png",
     "src": "src/assets/christmas/sprites/tree.png"
+  },
+  "src/assets/christmas/sprites/tree.png?url": {
+    "file": "assets/tree-D-ySK2jK.js",
+    "name": "tree",
+    "src": "src/assets/christmas/sprites/tree.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/tree-CV9TaEon.png"
+    ]
   },
   "src/assets/christmas/sprites/wreath.png": {
     "file": "assets/wreath-RdD4-MCB.png",
     "src": "src/assets/christmas/sprites/wreath.png"
   },
+  "src/assets/christmas/sprites/wreath.png?url": {
+    "file": "assets/wreath-DewfV5_7.js",
+    "name": "wreath",
+    "src": "src/assets/christmas/sprites/wreath.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/wreath-RdD4-MCB.png"
+    ]
+  },
   "src/assets/christmas/vignette.png": {
     "file": "assets/vignette-5HqD2nub.png",
     "src": "src/assets/christmas/vignette.png"
+  },
+  "src/assets/christmas/vignette.png?url": {
+    "file": "assets/vignette-BhBntOE2.js",
+    "name": "vignette",
+    "src": "src/assets/christmas/vignette.png?url",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/vignette-5HqD2nub.png"
+    ]
   },
   "src/levels/newyear_01.json": {
     "file": "assets/newyear_01-DHIFVxAP.js",
