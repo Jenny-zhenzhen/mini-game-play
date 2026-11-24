@@ -1,15 +1,10 @@
 {
-  "_phaser-BiZnaYYA.js": {
-    "file": "assets/phaser-BiZnaYYA.js",
-    "name": "phaser"
-  },
-  "index.html": {
-    "file": "assets/index-DJVB5jHY.js",
+  "_index-JcrVxSk3.js": {
+    "file": "assets/index-JcrVxSk3.js",
     "name": "index",
-    "src": "index.html",
-    "isEntry": true,
+    "isDynamicEntry": true,
     "imports": [
-      "_phaser-BiZnaYYA.js"
+      "index.html"
     ],
     "dynamicImports": [
       "src/assets/christmas/floor.png?url",
@@ -44,30 +39,31 @@
       "src/assets/christmas/ground/road_curve.png?url",
       "src/assets/christmas/ground/road_straight.png?url",
       "src/assets/christmas/ground/road_t.png?url",
-      "src/assets/christmas/ground/shadow.png?url",
-      "src/levels/newyear_01.json",
-      "src/levels/newyear_02.json",
-      "src/levels/newyear_03.json",
-      "src/levels/newyear_04.json",
-      "src/levels/newyear_05.json",
-      "src/levels/newyear_06.json",
-      "src/levels/newyear_07.json",
-      "src/levels/newyear_08.json",
-      "src/levels/thanksgiving_01.json",
-      "src/levels/thanksgiving_02.json",
-      "src/levels/thanksgiving_03.json",
-      "src/levels/thanksgiving_04.json",
-      "src/levels/thanksgiving_05.json",
-      "src/levels/thanksgiving_06.json",
-      "src/levels/thanksgiving_07.json",
-      "src/levels/thanksgiving_08.json"
-    ],
-    "css": [
-      "assets/index-BwlSi38y.css"
+      "src/assets/christmas/ground/shadow.png?url"
     ],
     "assets": [
       "assets/menu_bg-CCpTJHGz.png",
       "assets/logo-Dz5-491t.png"
+    ]
+  },
+  "_phaser-BiZnaYYA.js": {
+    "file": "assets/phaser-BiZnaYYA.js",
+    "name": "phaser"
+  },
+  "index.html": {
+    "file": "assets/index-BRmo_n5N.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_phaser-BiZnaYYA.js"
+    ],
+    "dynamicImports": [
+      "_index-JcrVxSk3.js",
+      "src/config/game.ts"
+    ],
+    "css": [
+      "assets/index-BwlSi38y.css"
     ]
   },
   "src/assets/christmas/edge/fence_corner.png": {
@@ -505,6 +501,35 @@
     "isDynamicEntry": true,
     "assets": [
       "assets/vignette-5HqD2nub.png"
+    ]
+  },
+  "src/config/game.ts": {
+    "file": "assets/game-CKxTh6y8.js",
+    "name": "game",
+    "src": "src/config/game.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index-JcrVxSk3.js",
+      "_phaser-BiZnaYYA.js"
+    ],
+    "dynamicImports": [
+      "src/levels/newyear_01.json",
+      "src/levels/newyear_02.json",
+      "src/levels/newyear_03.json",
+      "src/levels/newyear_04.json",
+      "src/levels/newyear_05.json",
+      "src/levels/newyear_06.json",
+      "src/levels/newyear_07.json",
+      "src/levels/newyear_08.json",
+      "src/levels/thanksgiving_01.json",
+      "src/levels/thanksgiving_02.json",
+      "src/levels/thanksgiving_03.json",
+      "src/levels/thanksgiving_04.json",
+      "src/levels/thanksgiving_05.json",
+      "src/levels/thanksgiving_06.json",
+      "src/levels/thanksgiving_07.json",
+      "src/levels/thanksgiving_08.json"
     ]
   },
   "src/levels/newyear_01.json": {
