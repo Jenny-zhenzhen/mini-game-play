@@ -4,7 +4,7 @@
     "name": "phaser"
   },
   "index.html": {
-    "file": "assets/index-CgVxFvvH.js",
+    "file": "assets/index-TlFHQ7e6.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -63,7 +63,7 @@
       "src/levels/thanksgiving_08.json"
     ],
     "css": [
-      "assets/index-CE-pNCfn.css"
+      "assets/index-BwlSi38y.css"
     ],
     "assets": [
       "assets/menu_bg-CCpTJHGz.png",
